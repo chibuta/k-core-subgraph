@@ -1,4 +1,4 @@
-# k-core-subgraph
+# Bioinformatics: K-Core subgraph for PPI
 Finding the Highest K-Core Subgraph in a Protein-Protein Interaction  Network
 
 A k-core in a graph is a subgraph in which all the nodes in that subgraph have at least degree k. In other words each node in a k-core has at least k immediate neighbors. 
